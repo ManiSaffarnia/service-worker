@@ -1,0 +1,31 @@
+html {
+  direction: rtl;
+}
+
+body {
+  font-size: 62.5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: IRANSans;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 3rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+p {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.emoji {
+  font-size: 50px;
+}
