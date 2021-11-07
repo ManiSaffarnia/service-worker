@@ -1,0 +1,23 @@
+{
+  "name": "service-worker-demo",
+  "version": "1.0.0",
+  "description": "simple service worker demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx serve -s public -l 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManiSaffarnia/service-worker.git"
+  },
+  "author": "Mani Saffarnia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManiSaffarnia/service-worker/issues"
+  },
+  "homepage": "https://github.com/ManiSaffarnia/service-worker#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
