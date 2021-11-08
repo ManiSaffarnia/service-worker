@@ -1,1 +1,1 @@
-console.log('hello service worker');
+console.log('this is from our app');
